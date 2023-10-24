@@ -1,0 +1,8 @@
+Java Core December: OOP. Лекция#21 (Часть 1)
+https://www.youtube.com/watch?v=150u5ofBzhc&list=PLoij6udfBncj3J8r4UMLoSEEwgAyjwj2A&index=3
+
+0:00:00 - темы лекции
+0:00:35 - о конструировании объектов и конструкторах
+1:13:42 - о типах, их приведении и полиморфизме
+1:55:07 - об объекте Class
+2:12:23 - еще о приведении типов
